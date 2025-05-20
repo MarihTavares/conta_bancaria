@@ -49,7 +49,7 @@ public class Main {
 
         }
 
-        System.out.println("Quanto você tem na sua conta?");
+        System.out.println("Qual o saldo você tem disponível?");
         double balance = read.nextDouble();
 
         System.out.println("""
