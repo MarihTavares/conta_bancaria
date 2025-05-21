@@ -14,7 +14,7 @@
 
 ## <h2 align="center" >Tecnologias 👩🏻‍💻</h2>
 
--  Java
+-  Java (JDK 21)
 -  Terminal
 -  IntelliJ IDEA
 
