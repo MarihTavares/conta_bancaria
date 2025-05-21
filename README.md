@@ -22,10 +22,3 @@
 -  Terminal
 -  IntelliJ IDEA
 
----
-
-## <h2 align="center">Execução 😎</h2>
-
-1. Clone no Terminal:
-```bash
-https://github.com/MarihTavares/conta_bancaria.git
