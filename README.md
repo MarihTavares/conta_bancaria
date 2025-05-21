@@ -2,9 +2,13 @@
 
 <br> 
 
-<p>Este é um projeto de nível básico, feito em Java, que realizei enquanto realizava um curso da Alura. 
-  Simulei um sistema bancário onde o usuário pode realizar algumas ações, como:
+<p>Projeto básico em Java desenvolvido durante um curso da Alura. <br>
+  Simula um sistema bancário simples, onde o usuário pode realizar operações financeiras.
 </p>
+
+---
+
+## <h2 align="center" >Funcionalidades ✨</h2>
 
 -  Consultar saldo
 -  Fazer tranferência
@@ -12,7 +16,7 @@
 
 ---
 
-## <h2 align="center" >Tecnologias 👩🏻‍💻</h2>
+## <h2 align="center" >Tecnologias Utilizadas 👩🏻‍💻</h2>
 
 -  Java (JDK 21)
 -  Terminal
@@ -23,5 +27,5 @@
 ## <h2 align="center">Execução 😎</h2>
 
 1. Clone no Terminal:
-```
+```bash
 https://github.com/MarihTavares/conta_bancaria.git
