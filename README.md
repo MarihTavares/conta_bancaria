@@ -1,4 +1,4 @@
-## <h1 align="center" >Simulador de Conta Bancária - Java</h1>
+## <h1 align="center" >Simulador de Conta Bancária - Java 🪙</h1>
 
 <br> 
 
@@ -12,7 +12,7 @@
 
 ---
 
-## <h2 align="center" >Tecnologias</h2>
+## <h2 align="center" >Tecnologias 👩🏻‍💻</h2>
 
 -  Java
 -  Terminal
@@ -20,8 +20,8 @@
 
 ---
 
-## <h2 align="center">Execução</h2>
+## <h2 align="center">Execução 😎</h2>
 
 1. Clone no Terminal:
 ```
-
+https://github.com/MarihTavares/conta_bancaria.git
